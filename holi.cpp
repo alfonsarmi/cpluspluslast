@@ -13,6 +13,8 @@ int main() {
     unsigned int numero;
     
     std::cout << "Ingrese un número para calcular su factorial: ";
+	std::cout << "Ingrese un número para calcular su factorial: ";
+	std::cout << "Ingrese un número para calcular su factorial: ";
     std::cin >> numero;
     
     // Verificación de número positivo
